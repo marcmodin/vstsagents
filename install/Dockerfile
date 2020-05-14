@@ -34,4 +34,3 @@ RUN --mount=type=secret,id=mysecret cat /run/secrets/mysecret > .token \
   && rm -f .token \
   && rm -f ./scripts/install.sh
 
-# CMD ["./scripts/start.sh"]
