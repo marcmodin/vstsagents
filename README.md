@@ -41,3 +41,7 @@ _The original instructions can be found here as of 2020 https://docs.microsoft.c
   ```
   docker run -it -e AZP_URL=<server address> -e AZP_TOKEN=<your toke> --rm <respository>:bionic_<version>
   ```
+### Backlog
+- add ability to support other distibutions that are supported
+- enable self removal of agent and clearn shutdown 
+  
