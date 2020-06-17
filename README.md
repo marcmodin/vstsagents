@@ -43,5 +43,5 @@ _The original instructions can be found here as of 2020 https://docs.microsoft.c
   ```
 ### Backlog
 - add ability to support other distibutions that are supported
-- enable self removal of agent and clearn shutdown 
+- enable clean shutdown, self removal of agent 
   
